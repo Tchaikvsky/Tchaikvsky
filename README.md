@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tchaikvsky
 - 👀 I’m interested in AI, Web Development, and DevOps
-- 🌱 I’m currently learning Jenkins, Maven, and AWS
+- 🌱 I’m currently learning Jenkins, Docker, and AWS
 - 📫 How to reach me is through my email: mrader.rader@gmail.com
 
 <!---
