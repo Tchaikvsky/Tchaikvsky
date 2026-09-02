@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tchaikvsky
-- 👀 I’m interested in AI, Web Development, and DevOps
-- 🌱 I’m currently learning AWS, Kubernetes, Node.js, and Terraform
+- 👀 I’m interested in  DevOps and Kubernetes
+- 🌱 I’m currently learning Argo
 - 📫 How to reach me is through my email: mrader.rader@gmail.com
 
 <!---
